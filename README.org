@@ -4,6 +4,6 @@ Blazingly fast Entity-Component-System microframework
 
 |---------+-----------------------------------------------|
 | source  | git:https://gitlab.com/lockie/cl-fast-ecs.git |
-| commit  | 435faea                                       |
+| commit  | 491a16b                                       |
 | systems | cl-fast-ecs                                   |
 |---------+-----------------------------------------------|
